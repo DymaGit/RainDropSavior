@@ -1,0 +1,6 @@
+Java game (in progress)
+
+A rainrdrop falling fron the sky.
+Player has to avoid obstacles (birds, planes, surroundings..).
+
+At the bottom the raindrop must hit the burning part of forest to make the fire smaller untill it's extinguished!
